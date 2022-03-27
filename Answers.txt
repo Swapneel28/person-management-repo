@@ -1,0 +1,35 @@
+Coding
+
+    1. What effect did applying the rules have on your code?
+         
+       Due to the usage of only if statement and one level of indentation, code became more readable, modularized and              maintainable. I changed the access modifier of the attributes to public. This has exposed the data.Getter/Setters           are useful methods. We can achieve encapsulation with Getter/Setter methods and protect the data. 
+    
+    
+    2. Anything that became better?
+        
+       Code became more readable, modularized and maintainable.
+
+
+    
+    
+    3. Anything that became worse?
+       
+       I changed the access modifier of the attributes to public. This has exposed the data
+
+    
+    
+
+    4. What's your impression and understanding of the frameworks and libraries we've used here?
+        
+       Initially I thought that the assignment was easy and doable. After some time I realized that it is little bit               difficult. I got stuck at four test cases. I tried to fix that. But I couldn't. Overall I enjoyed the assignment and        learned new things. 
+    
+
+Deployment
+    
+    1. How do you feel about shipping and deploying code yourself?        
+       In my current project, Developers deploy their code in the production. It's good practice.
+    
+
+    2. Who do you think should be responsible for code running in production?        
+       Developers need to deploy and run the code in the production. 
+  
